@@ -16,4 +16,4 @@ to run the unit test using enzyme and no luck. I installed react-test-renderer@1
 
 
 
-** If you want to see my implementation with the original packages from Soreto (React15), please go to: https://github.com/ricardosaumeth/React_Pagination_Exercise **
+**If you want to see my implementation with the original packages from Soreto (React15), please go to: https://github.com/ricardosaumeth/React_Pagination_Exercise**
