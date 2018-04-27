@@ -1,0 +1,14 @@
+label {
+  margin-left: 12px;
+}
+
+input[name="isMale"] {
+  margin: 0 0 0 5px;
+}
+
+:local(.addFriendInput) {
+  border-radius: 0;
+  border-color: #ABAAAA;
+  border-left: 0;
+  border-right: 0;
+}
