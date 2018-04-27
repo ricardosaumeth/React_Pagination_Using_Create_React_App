@@ -1,8 +1,10 @@
 ## Usage
 
+```
 npm install
 npm run start
 npm run test
+```
 
 ## Rationale
 The original project uses React 15 and I got to many issues trying to install enzyme. 
